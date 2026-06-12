@@ -1,0 +1,117 @@
+{
+  "methodology": {
+    "source": "Stack Exchange API /2.3/questions filter=total, anonymous quota",
+    "pulled_at": "2026-06-12T06:39:50.577914+00:00",
+    "normalization": "raw counts; decay rates are compound monthly rates fitted between period endpoints",
+    "caveats": [
+      "Counts are questions surviving today (deleted/removed questions not included) \u2014 historical figures are slightly undercounted vs what was asked at the time; this biases AGAINST the collapse narrative, not for it.",
+      "Cohort-relative tag analysis: a tag's decline measures public Q&A activity, not the technology's real-world usage.",
+      "What this does NOT measure: question quality, answer accuracy, lurker traffic (pageviews), private/Teams usage, LLM answer quality.",
+      "June 2026 is partial and excluded; last full month = May 2026."
+    ]
+  },
+  "peak": {
+    "quarter": "2014Q1",
+    "start": "2014-01",
+    "questions": 583310
+  },
+  "latest_quarter": {
+    "quarter": "2026Q1",
+    "start": "2026-01",
+    "questions": 10199
+  },
+  "latest_month": {
+    "month": "2026-05",
+    "questions": 2435
+  },
+  "total_decline_pct": 98.3,
+  "decay": {
+    "pre_chatgpt_monthly_pct": -0.56,
+    "post_chatgpt_monthly_pct": -8.7,
+    "acceleration_factor": 15.4,
+    "decline_before_chatgpt_pct": 43.9,
+    "pre_window": "2014Q1->2022Q3",
+    "post_window": "2023Q1->2026Q1"
+  },
+  "post_chatgpt_half_life_months": 7.6,
+  "time_machine_quarters": [
+    "2026Q1"
+  ],
+  "tags": [
+    {
+      "tag": "pandas",
+      "y2022": 42459,
+      "y2024": 5770,
+      "y2025": 1062,
+      "retention_2025_vs_2022_pct": 2.5
+    },
+    {
+      "tag": "reactjs",
+      "y2022": 78868,
+      "y2024": 16526,
+      "y2025": 3254,
+      "retention_2025_vs_2022_pct": 4.1
+    },
+    {
+      "tag": "javascript",
+      "y2022": 149558,
+      "y2024": 29351,
+      "y2025": 6245,
+      "retention_2025_vs_2022_pct": 4.2
+    },
+    {
+      "tag": "python",
+      "y2022": 223743,
+      "y2024": 51397,
+      "y2025": 13586,
+      "retention_2025_vs_2022_pct": 6.1
+    },
+    {
+      "tag": "typescript",
+      "y2022": 34174,
+      "y2024": 11044,
+      "y2025": 2998,
+      "retention_2025_vs_2022_pct": 8.8
+    },
+    {
+      "tag": "next.js",
+      "y2022": 10396,
+      "y2024": 6352,
+      "y2025": 1526,
+      "retention_2025_vs_2022_pct": 14.7
+    },
+    {
+      "tag": "rust",
+      "y2022": 7622,
+      "y2024": 3498,
+      "y2025": 1273,
+      "retention_2025_vs_2022_pct": 16.7
+    },
+    {
+      "tag": "langchain",
+      "y2022": 0,
+      "y2024": 785,
+      "y2025": 209,
+      "retention_2025_vs_2022_pct": null
+    }
+  ],
+  "corpus_gap": {
+    "langchain_sampled": 994,
+    "pandas_sampled": 49291,
+    "ratio": 49.6
+  },
+  "answers_yearly": [
+    {
+      "year": 2014,
+      "answers": 3185744
+    },
+    {
+      "year": 2022,
+      "answers": 1718600
+    },
+    {
+      "year": 2025,
+      "answers": 189668
+    }
+  ]
+}

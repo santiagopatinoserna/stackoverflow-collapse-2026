@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "pulled_at_utc": "2026-06-12T06:39:50.577914+00:00",
+    "source": "https://api.stackexchange.com/2.3",
+    "auth": "none (anonymous quota)",
+    "requests_this_run": 115
+  },
+  "quarterly": [
+    {
+      "quarter": "2008Q3",
+      "start": "2008-07",
+      "questions": 17776
+    },
+    {
+      "quarter": "2008Q4",
+      "start": "2008-10",
+      "questions": 39362
+    },
+    {
+      "quarter": "2009Q1",
+      "start": "2009-01",
+      "questions": 53878
+    },
+    {
+      "quarter": "2009Q2",
+      "start": "2009-04",
+      "questions": 75461
+    },
+    {
+      "quarter": "2009Q3",
+      "start": "2009-07",
+      "questions": 98282
+    },
+    {
+      "quarter": "2009Q4",
+      "start": "2009-10",
+      "questions": 112605
+    },
+    {
+      "quarter": "2010Q1",
+      "start": "2010-01",
+      "questions": 141953
+    },
+    {
+      "quarter": "2010Q2",
+      "start": "2010-04",
+      "questions": 157798
+    },
+    {
+      "quarter": "2010Q3",
+      "start": "2010-07",
+      "questions": 185683
+    },
+    {
+      "quarter": "2010Q4",
+      "start": "2010-10",
+      "questions": 202990
+    },
+    {
+      "quarter": "2011Q1",
+      "start": "2011-01",
+      "questions": 263756
+    },
+    {
+      "quarter": "2011Q2",
+      "start": "2011-04",
+      "questions": 294761
+    },
+    {
+      "quarter": "2011Q3",
+      "start": "2011-07",
+      "questions": 309023
+    },
+    {
+      "quarter": "2011Q4",
+      "start": "2011-10",
+      "questions": 312603
+    },
+    {
+      "quarter": "2012Q1",
+      "start": "2012-01",
+      "questions": 371628
+    },
+    {
+      "quarter": "2012Q2",
+      "start": "2012-04",
+      "questions": 391743
+    },
+    {
+      "quarter": "2012Q3",
+      "start": "2012-07",
+      "questions": 415366
+    },
+    {
+      "quarter": "2012Q4",
+      "start": "2012-10",
+      "questions": 433441
+    },
+    {
+      "quarter": "2013Q1",
+      "start": "2013-01",
+      "questions": 484686
+    },
+    {
+      "quarter": "2013Q2",
+      "start": "2013-04",
+      "questions": 495826
+    },
+    {
+      "quarter": "2013Q3",
+      "start": "2013-07",
+      "questions": 511661
+    },
+    {
+      "quarter": "2013Q4",
+      "start": "2013-10",
+      "questions": 524711
+    },
+    {
+      "quarter": "2014Q1",
+      "start": "2014-01",
+      "questions": 583310
+    },
+    {
+      "quarter": "2014Q2",
+      "start": "2014-04",
+      "questions": 531510
+    },
+    {
+      "quarter": "2014Q3",
+      "start": "2014-07",
+      "questions": 505885
+    },
+    {
+      "quarter": "2014Q4",
+      "start": "2014-10",
+      "questions": 494335
+    },
+    {
+      "quarter": "2015Q1",
+      "start": "2015-01",
+      "questions": 523688
+    },
+    {
+      "quarter": "2015Q2",
+      "start": "2015-04",
+      "questions": 562952
+    },
+    {
+      "quarter": "2015Q3",
+      "start": "2015-07",
+      "questions": 554041
+    },
+    {
+      "quarter": "2015Q4",
+      "start": "2015-10",
+      "questions": 536298
+    },
+    {
+      "quarter": "2016Q1",
+      "start": "2016-01",
+      "questions": 570810
+    },
+    {
+      "quarter": "2016Q2",
+      "start": "2016-04",
+      "questions": 570803
+    },
+    {
+      "quarter": "2016Q3",
+      "start": "2016-07",
+      "questions": 530407
+    },
+    {
+      "quarter": "2016Q4",
+      "start": "2016-10",
+      "questions": 512749
+    },
+    {
+      "quarter": "2017Q1",
+      "start": "2017-01",
+      "questions": 553553
+    },
+    {
+      "quarter": "2017Q2",
+      "start": "2017-04",
+      "questions": 542992
+    },
+    {
+      "quarter": "2017Q3",
+      "start": "2017-07",
+      "questions": 519777
+    },
+    {
+      "quarter": "2017Q4",
+      "start": "2017-10",
+      "questions": 483898
+    },
+    {
+      "quarter": "2018Q1",
+      "start": "2018-01",
+      "questions": 486500
+    },
+    {
+      "quarter": "2018Q2",
+      "start": "2018-04",
+      "questions": 484455
+    },
+    {
+      "quarter": "2018Q3",
+      "start": "2018-07",
+      "questions": 462959
+    },
+    {
+      "quarter": "2018Q4",
+      "start": "2018-10",
+      "questions": 442359
+    },
+    {
+      "quarter": "2019Q1",
+      "start": "2019-01",
+      "questions": 456986
+    },
+    {
+      "quarter": "2019Q2",
+      "start": "2019-04",
+      "questions": 440697
+    },
+    {
+      "quarter": "2019Q3",
+      "start": "2019-07",
+      "questions": 424987
+    },
+    {
+      "quarter": "2019Q4",
+      "start": "2019-10",
+      "questions": 433406
+    },
+    {
+      "quarter": "2020Q1",
+      "start": "2020-01",
+      "questions": 447632
+    },
+    {
+      "quarter": "2020Q2",
+      "start": "2020-04",
+      "questions": 541192
+    },
+    {
+      "quarter": "2020Q3",
+      "start": "2020-07",
+      "questions": 456068
+    },
+    {
+      "quarter": "2020Q4",
+      "start": "2020-10",
+      "questions": 410612
+    },
+    {
+      "quarter": "2021Q1",
+      "start": "2021-01",
+      "questions": 420283
+    },
+    {
+      "quarter": "2021Q2",
+      "start": "2021-04",
+      "questions": 398661
+    },
+    {
+      "quarter": "2021Q3",
+      "start": "2021-07",
+      "questions": 365825
+    },
+    {
+      "quarter": "2021Q4",
+      "start": "2021-10",
+      "questions": 350056
+    },
+    {
+      "quarter": "2022Q1",
+      "start": "2022-01",
+      "questions": 356460
+    },
+    {
+      "quarter": "2022Q2",
+      "start": "2022-04",
+      "questions": 341612
+    },
+    {
+      "quarter": "2022Q3",
+      "start": "2022-07",
+      "questions": 327480
+    },
+    {
+      "quarter": "2022Q4",
+      "start": "2022-10",
+      "questions": 312031
+    },
+    {
+      "quarter": "2023Q1",
+      "start": "2023-01",
+      "questions": 269901
+    },
+    {
+      "quarter": "2023Q2",
+      "start": "2023-04",
+      "questions": 198835
+    },
+    {
+      "quarter": "2023Q3",
+      "start": "2023-07",
+      "questions": 175698
+    },
+    {
+      "quarter": "2023Q4",
+      "start": "2023-10",
+      "questions": 145127
+    },
+    {
+      "quarter": "2024Q1",
+      "start": "2024-01",
+      "questions": 138458
+    },
+    {
+      "quarter": "2024Q2",
+      "start": "2024-04",
+      "questions": 114504
+    },
+    {
+      "quarter": "2024Q3",
+      "start": "2024-07",
+      "questions": 84091
+    },
+    {
+      "quarter": "2024Q4",
+      "start": "2024-10",
+      "questions": 61982
+    },
+    {
+      "quarter": "2025Q1",
+      "start": "2025-01",
+      "questions": 48869
+    },
+    {
+      "quarter": "2025Q2",
+      "start": "2025-04",
+      "questions": 30006
+    },
+    {
+      "quarter": "2025Q3",
+      "start": "2025-07",
+      "questions": 19602
+    },
+    {
+      "quarter": "2025Q4",
+      "start": "2025-10",
+      "questions": 15002
+    },
+    {
+      "quarter": "2026Q1",
+      "start": "2026-01",
+      "questions": 10199
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-01",
+      "questions": 18212
+    },
+    {
+      "month": "2025-02",
+      "questions": 15549
+    },
+    {
+      "month": "2025-03",
+      "questions": 15108
+    },
+    {
+      "month": "2025-04",
+      "questions": 11419
+    },
+    {
+      "month": "2025-05",
+      "questions": 9674
+    },
+    {
+      "month": "2025-06",
+      "questions": 8913
+    },
+    {
+      "month": "2025-07",
+      "questions": 7735
+    },
+    {
+      "month": "2025-08",
+      "questions": 5822
+    },
+    {
+      "month": "2025-09",
+      "questions": 6045
+    },
+    {
+      "month": "2025-10",
+      "questions": 5351
+    },
+    {
+      "month": "2025-11",
+      "questions": 5421
+    },
+    {
+      "month": "2025-12",
+      "questions": 4230
+    },
+    {
+      "month": "2026-01",
+      "questions": 3750
+    },
+    {
+      "month": "2026-02",
+      "questions": 3191
+    },
+    {
+      "month": "2026-03",
+      "questions": 3258
+    },
+    {
+      "month": "2026-04",
+      "questions": 2651
+    },
+    {
+      "month": "2026-05",
+      "questions": 2435
+    }
+  ],
+  "tags": [
+    {
+      "tag": "python",
+      "2022": 223743,
+      "2024": 51397,
+      "2025": 13586
+    },
+    {
+      "tag": "javascript",
+      "2022": 149558,
+      "2024": 29351,
+      "2025": 6245
+    },
+    {
+      "tag": "reactjs",
+      "2022": 78868,
+      "2024": 16526,
+      "2025": 3254
+    },
+    {
+      "tag": "pandas",
+      "2022": 42459,
+      "2024": 5770,
+      "2025": 1062
+    },
+    {
+      "tag": "rust",
+      "2022": 7622,
+      "2024": 3498,
+      "2025": 1273
+    },
+    {
+      "tag": "typescript",
+      "2022": 34174,
+      "2024": 11044,
+      "2025": 2998
+    },
+    {
+      "tag": "langchain",
+      "2022": 0,
+      "2024": 785,
+      "2025": 209
+    },
+    {
+      "tag": "next.js",
+      "2022": 10396,
+      "2024": 6352,
+      "2025": 1526
+    }
+  ],
+  "answers": [
+    {
+      "year": 2014,
+      "answers": 3185744
+    },
+    {
+      "year": 2022,
+      "answers": 1718600
+    },
+    {
+      "year": 2025,
+      "answers": 189668
+    }
+  ]
+}
