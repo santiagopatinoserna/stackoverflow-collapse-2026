@@ -11,6 +11,8 @@
 
 ## Reproduce
 
+Needs Python 3 and `matplotlib` (`pip install matplotlib`). Everything else is the standard library.
+
 ```bash
 python3 fetch.py     # ~120 anonymous API calls, checkpointed (resume-safe)
 python3 analyze.py   # decay rates, half-life, tag table -> CSV/JSON
@@ -37,5 +39,10 @@ No API key needed (anonymous quota: 300 req/day/IP). Numbers reproduce within no
 Deleted questions (survivor counts only), read traffic, private LLM chats (unobservable), tag confounders (rust culture ≠ only LLM coverage), Q&A that moved to GitHub/Discord. Q3 2008 is a partial quarter — which makes "below the launch quarter" conservative.
 
 Found an error? Open an issue — I'd rather correct it than defend it.
+
+## License
+
+- **Code** (`fetch.py`, `analyze.py`, `chart.py`): MIT, see [LICENSE](./LICENSE).
+- **Data:** aggregate question counts pulled from the public Stack Exchange API. No post or user content is included. Stack Exchange user content is licensed CC BY-SA, so check their terms before redistributing anything beyond these counts.
 
 — Santiago Patino Serna · santiagopatinoserna@godi.ai
